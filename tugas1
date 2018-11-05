@@ -1,0 +1,8 @@
+saya=input('masukkan berat badan anda (kg)') 
+rekan=input('masukkan berat badan rekan anda (kg)') 
+saya=int(saya) 
+rekan=int(rekan) 
+hasil1=(saya-rekan) 
+hasil2=(rekan-saya) 
+
+if saya>rekan:
